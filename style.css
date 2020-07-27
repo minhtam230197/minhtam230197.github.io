@@ -1,0 +1,36 @@
+.form control{
+    margin-left:  100px;
+}
+.bg-main {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    background-image: url(./Landing_Page/bg-masthead.jpg);
+    background-size: cover;
+}
+.icon1{
+    color: #007BFF;
+}
+.fa-check-circle{
+    color: #007BFF;
+}
+.text-example{
+    padding-top: 150px;
+}
+.image-example{
+    width: 100%;
+}
+.bg-main2 {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    background-image: url(./Landing_Page/bg-masthead.jpg);
+    background-size: cover;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-position: center 50%;
+}
+.image img{
+    clip-path: circle(50% at 50% 50%);
+}
+.form control{
+    width: 500px;
+}
